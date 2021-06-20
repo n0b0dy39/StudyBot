@@ -1,0 +1,3 @@
+os
+discord.py
+python-dotenv
